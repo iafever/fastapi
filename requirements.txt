@@ -1,4 +1,4 @@
 fastapi[all]
 xata[all]
-redis
+fastapi-redis >= 0.1.11
 aioredis_fastapi >= 1.0.1
