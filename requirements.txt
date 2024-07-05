@@ -1,4 +1,4 @@
 fastapi[all]
 xata[all]
-redis-py >= 5.0.7
+redis >= 5.0.7
 aioredis_fastapi >= 1.0.1
