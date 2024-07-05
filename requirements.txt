@@ -1,2 +1,4 @@
 fastapi[all]
 xata[all]
+redis-py[all]
+aioredis-py[all]
